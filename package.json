@@ -1,0 +1,30 @@
+{
+  "name": "my-react",
+  "version": "1.0.0",
+  "description": "this is react by sanoyar",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sksanoyarali/react-learnning.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sk sanoyar ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sksanoyarali/react-learnning/issues"
+  },
+  "homepage": "https://github.com/sksanoyarali/react-learnning#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "last 2 Chrome version",
+    "last 2 Firebox version"
+  ]
+}
